@@ -1,0 +1,26 @@
+{
+  "name": "crimsonbot",
+  "version": "1.0.0",
+  "description": "Discord bot for Crimson Gaming",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solarmender/CrimsonBot.git"
+  },
+  "author": "Solarmender",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solarmender/CrimsonBot/issues"
+  },
+  "homepage": "https://github.com/Solarmender/CrimsonBot#readme",
+  "dependencies": {
+    "discord.js": "11.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.10"
+  }
+}
